@@ -1,0 +1,4 @@
+MARION COUNTY - Row 18261 in sighting file
+make a chart - x axis = time, y axis = number of sightings
+make a chart - x axis = time, y axis = shape
+add AM + PM to a new column using the datetime variable
